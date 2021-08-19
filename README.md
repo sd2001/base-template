@@ -1,1 +1,1 @@
-# persist-template
+# Base Template for Future Repositories
