@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/By-Swarnabha-blue?style=for-the-badge" /><br>
    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
     <br>
-   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" /><br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" /><br>
   </p>
   <p>
   <img src="https://img.shields.io/badge/Product%20%7C%20Functionality%20Tag-lavenderblush?logo=Product%20Hunt&style=for-the-badge" />
@@ -21,7 +21,7 @@
  <div align="center">
  <p>
  <br>
-   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" /><br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" /><br>
    <br><strong><Repo-Name></strong> is available under MIT License, read the LICENSE file for more info
   <p>
  </div>
