@@ -68,7 +68,7 @@
   <br>
   
   <div align="center"> 
-  <img src="https://img.shields.io/badge/Contributors-seashell?logo=Microsoft%20Teams&style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" /> 
 </div>
   <br>
 
